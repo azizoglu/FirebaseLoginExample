@@ -41,4 +41,5 @@ Create a new dart file [auth.dart](https://github.com/azizoglu/FirebaseLoginExam
 Create a new dart file [user.dart](https://github.com/azizoglu/FirebaseLoginExample/blob/master/lib/data/models/user.dart")  for user data. 
 
 ## Screenshots
-![ScreenShot](https://{https://github.com/azizoglu/FirebaseLoginExample/blob/master/screenshot/screenshot.jpg})
+![FLE](https://{https://github.com/azizoglu/FirebaseLoginExample/blob/master/screenshot/screenshot.jpg) 
+
