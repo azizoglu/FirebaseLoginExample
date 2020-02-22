@@ -29,7 +29,7 @@ Install a few plugins before you start. Add the plugins to your package's pubspe
 - - For loading animation [flutter_spinkit](https://pub.dev/packages/flutter_spinkit "flutter_spinkit").
 
 ### Step 3: Create UI
-- [Login Page View](https://github.com/azizoglu/FirebaseLoginExample/blob/master/lib/ui/views/login_page.dart"Login Page View")
+- [Login Page View](https://github.com/azizoglu/FirebaseLoginExample/blob/master/lib/ui/views/login_page.dart "Login Page View")
 - [Home Page View](https://github.com/azizoglu/FirebaseLoginExample/blob/master/lib/ui/views/home_page.dart "Home Page View")
 - [Sign Up Page View](https://github.com/azizoglu/FirebaseLoginExample/blob/master/lib/ui/views/signup_page.dart "Sign Up Page View")
 - [Loading](https://github.com/azizoglu/FirebaseLoginExample/blob/master/lib/ui/shared/loading.dart "Loading")
